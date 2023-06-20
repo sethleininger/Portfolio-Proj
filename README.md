@@ -26,4 +26,7 @@ Just load the html on your page or go to the deployed page!
 below is a picture of site
 <img width="1426" alt="Screenshot 2023-06-20 at 4 21 41 PM" src="https://github.com/sethleininger/Portfolio-Proj/assets/122936654/c0d85b8a-50be-4e02-90a1-0aa23390c76c">
 
+## Deployed App
+https://sethleininger.github.io/Portfolio-Proj/ 
+
 
