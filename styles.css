@@ -92,7 +92,7 @@ main {
   }
 /* Spacial maneurvering for "Hero" image section*/
 .Hero-Image {
-    background-image: url("../Challenge-Two/phtos/IMG_1427.JPG");
+    background-image: url("./phtos/IMG_1427.JPG");
     height: 30%;
     background-position: center;
     background-repeat: repeat;
@@ -120,6 +120,7 @@ p {
     padding: 1;
     color: #03171c;
     font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
 
