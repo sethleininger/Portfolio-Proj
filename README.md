@@ -1,4 +1,8 @@
-# Challenge-Two
+# Portfolio-Project
+
+## Description
+
+This is a personal website for a my portfolio.
 
 For HTML:
 I added Header/Footer and three internal sections to the page
@@ -15,3 +19,11 @@ Hover componets were added to all links.
 
 Fonts and colors are universal for the page.
 Media queries were added so page is funtional for all devices.
+
+## Usage 
+
+Just load the html on your page or go to the deployed page!
+below is a picture of site
+<img width="1426" alt="Screenshot 2023-06-20 at 4 21 41 PM" src="https://github.com/sethleininger/Portfolio-Proj/assets/122936654/c0d85b8a-50be-4e02-90a1-0aa23390c76c">
+
+
